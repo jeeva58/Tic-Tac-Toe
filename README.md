@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-## Description:
+### Description:
 In this app we will be building a Tic Tac Toe Game Project using Java and XML in
 Android. The Tic Tac Toe Game is based on a two-player game. Each player
 chooses between X and O. Player play one move at a time simultaneously. In a
@@ -9,7 +9,7 @@ The goal here is to get three consecutive X or O in a horizontal, vertical, or
 diagonal direction. There will be a single activity in this application. This activity
 will show a 3×3 grid. The status of the game will be displayed at the bottom.
 
-## Features:
+### Features:
 1. The game provides the player with options to either play alone or with some
 other players. If the singleplayer option is selected, the game is played against
 the computer.
